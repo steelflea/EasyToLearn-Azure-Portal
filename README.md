@@ -1,4 +1,4 @@
-# 처음 배우는 Azure (Azure 포털 버전)
+# 처음 배우는 Azure 1판 (Azure 포털 버전)
 -----------
 <img src="https://user-images.githubusercontent.com/36403352/103448033-ded2c780-4cd6-11eb-9d2a-1ce79c9b0663.png" width="85%"></img>
 
